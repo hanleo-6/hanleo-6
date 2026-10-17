@@ -1,13 +1,13 @@
 Hi netizen, wish you a great day!
 
-I'm currently working on:
-- Linely: Daily event energy calendar (React Native, Typescript, Expo)
-- Elysium: leaf seaslug ecosystem terminal sim (Go)
+## I'm currently working on:
+- **Linely:** Daily event energy calendar (React Native, Typescript, Expo)
+- **Elysium:** leaf seaslug ecosystem terminal sim (Go)
   
-- PintOS: mini operating systems coursework project (C)
+- **PintOS:** mini operating systems coursework project (C)
 
-I've worked on:
-- Oxford Tutors Admissions Test Platform: https://cambridgeandoxfordtutors.com/
+## I've worked on:
+- **Oxford Tutors Admissions Test Platform:** [`cambridgeandoxfordtutors.com/`](https://cambridgeandoxfordtutors.com/)
   (Next.js, React, Typescript, Supabase)
 
 <!--
