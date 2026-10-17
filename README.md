@@ -1,4 +1,14 @@
-## Hi there 👋
+Hi netizen, wish you a great day!
+
+I'm currently working on:
+- Linely: Daily event energy calendar (React Native, Typescript, Expo)
+- Elysium: leaf seaslug ecosystem terminal sim (Go)
+  
+- PintOS: mini operating systems coursework project (C)
+
+I've worked on:
+- Oxford Tutors Admissions Test Platform: https://cambridgeandoxfordtutors.com/
+  (Next.js, React, Typescript, Supabase)
 
 <!--
 **hanleo-6/hanleo-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
